@@ -9,6 +9,6 @@ public class Primitives {
         long largeInteger =8574512421541L; // 8 bytes
         boolean check =  false;
 
-        
+
     }
 }
