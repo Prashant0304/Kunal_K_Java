@@ -1,5 +1,6 @@
 package com.kunal;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Inputs {
@@ -14,5 +15,6 @@ public class Inputs {
 
         float marks = input.nextFloat();
         System.out.println(marks);
+
     }
 }
