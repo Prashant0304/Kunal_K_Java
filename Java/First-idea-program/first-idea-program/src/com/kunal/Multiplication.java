@@ -12,7 +12,7 @@ public class Multiplication {
 //        for(int i=1;i<=10 ; i++){
 //            System.out.println(  number+ " * " +i+  " = " + number  *  i );
 //        }
-//        int i=1;
+        int i=1;
         while(i <= 10){
             System.out.println(number+ " * " +i+  " = "+number * i);
             i++;
