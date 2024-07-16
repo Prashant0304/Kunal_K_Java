@@ -10,29 +10,30 @@ public class loops {
            for(initialisation;condition;increment or decrement){
             //body
             }
-        */
-        Scanner input = new Scanner (System.in);
-        int num = input.nextInt();
-        for (int i = 1; i <= num; i++) {
-            System.out.print(i+" ");
-        }
+//        */
+//        Scanner input = new Scanner (System.in);
+//        int num = input.nextInt();
+//        for (int i = 1; i <= num; i++) {
+//            System.out.print(i+" ");
+//        }
         /* syntax of while
         // while(condition){
             //body
             }
         */
-        int j=1;
-        while(j<=5){
-            System.out.println(j);
-            j++;
-        }
+//        int j=1;
+//        while(j<=5){
+//            System.out.println(j);
+//            j++;
+//        }
         /*
         do{
          //body
         }while(condition);
         */
+        int n=1;
          do{
              System.out.println("Hello World!");
-         }while();
+         }while(n != 1);
     }
 }
