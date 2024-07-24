@@ -8,7 +8,6 @@ public class ReverseNumber {
         System.out.println("Enter Number : ");
         int number = scanner.nextInt();
         int ans = 0;
-
         while (number > 0) {
             int rem = number % 10;
             number = number / 10;
