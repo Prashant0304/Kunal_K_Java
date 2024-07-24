@@ -10,7 +10,8 @@ public class Fibonacci {
         int number = input.nextInt();
         int a = 0;
         int b = 1;
-
+//        System.out.println(a);
+//        System.out.println(b);
 //        This logic provides series of fibonacci
 //        for(int i=1;i<=number;i++){
 //            int nextNumber = a+ b;
